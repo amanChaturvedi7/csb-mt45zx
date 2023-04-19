@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-mt45zx/static/css/main.1240687d.chunk.css",
+    "main.js": "https://.github.io/csb-mt45zx/static/js/main.98fbea29.chunk.js",
+    "main.js.map": "https://.github.io/csb-mt45zx/static/js/main.98fbea29.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-mt45zx/static/js/runtime-main.a2d0847c.js",
+    "runtime-main.js.map": "https://.github.io/csb-mt45zx/static/js/runtime-main.a2d0847c.js.map",
+    "static/css/2.80f479d8.chunk.css": "https://.github.io/csb-mt45zx/static/css/2.80f479d8.chunk.css",
+    "static/js/2.f20d75b6.chunk.js": "https://.github.io/csb-mt45zx/static/js/2.f20d75b6.chunk.js",
+    "static/js/2.f20d75b6.chunk.js.map": "https://.github.io/csb-mt45zx/static/js/2.f20d75b6.chunk.js.map",
+    "index.html": "https://.github.io/csb-mt45zx/index.html",
+    "precache-manifest.0716c78bfe96a58748bce4db6c5db33b.js": "https://.github.io/csb-mt45zx/precache-manifest.0716c78bfe96a58748bce4db6c5db33b.js",
+    "service-worker.js": "https://.github.io/csb-mt45zx/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "https://.github.io/csb-mt45zx/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.1240687d.chunk.css.map": "https://.github.io/csb-mt45zx/static/css/main.1240687d.chunk.css.map",
+    "static/js/2.f20d75b6.chunk.js.LICENSE.txt": "https://.github.io/csb-mt45zx/static/js/2.f20d75b6.chunk.js.LICENSE.txt",
+    "static/media/BackgroundVideo.mp4": "https://.github.io/csb-mt45zx/static/media/BackgroundVideo.be8859c4.mp4",
+    "static/media/Video2.mp4": "https://.github.io/csb-mt45zx/static/media/Video2.ff847757.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2d0847c.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.f20d75b6.chunk.js",
+    "static/css/main.1240687d.chunk.css",
+    "static/js/main.98fbea29.chunk.js"
+  ]
+}
